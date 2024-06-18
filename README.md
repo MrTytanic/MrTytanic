@@ -5,11 +5,12 @@
 <img align="left" alt="Python" width="26px" stlye="padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
 <img align="left" alt="HTML5" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="left" alt="CSS" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-<img align="left" alt="CSS" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
+<img align="left" alt="CSS" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg"/>
 
-<br/>
 
-*“By seeking and blundering we learn.”* - Johann Wolfgang von Goethe
+<div>
+*By seeking and blundering we learn.* - Johann Wolfgang von Goethe
+</div>
 <!--
 **MrTytanic/MrTytanic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
