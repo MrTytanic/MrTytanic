@@ -1,5 +1,5 @@
 # MrTytanic
-**IR Student - __Amateur__ Developer**
+**IR Student - _Amateur_ Developer**
 
 ### Languages
 <img align="left" alt="Python" width="26px" stlye="padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
