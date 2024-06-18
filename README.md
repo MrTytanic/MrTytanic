@@ -1,9 +1,8 @@
 # README.md
-**IR Student, Video Editor, Amateur Developer**
+**IR Student - Amateur Developer**
 ---
 Languages
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
----
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
 
 <!--
 **MrTytanic/MrTytanic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
