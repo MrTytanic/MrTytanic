@@ -9,6 +9,8 @@
 
 <br />
 
+*“By seeking and blundering we learn.”*
+- Johann Wolfgang von Goethe
 <!--
 **MrTytanic/MrTytanic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
