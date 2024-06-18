@@ -7,7 +7,7 @@
 <img align="left" alt="CSS" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
 <img align="left" alt="CSS" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
 
-<br />
+<br/>
 
 *“By seeking and blundering we learn.”*
 - Johann Wolfgang von Goethe
