@@ -1,10 +1,11 @@
 # MrTytanic
 **IR Student - Amateur Developer**
 ---
+
 ### Languages
 <img align="left" alt="Python" width="30px" stlye="padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
 <img align="left" alt="HTML5" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-
+<br />
 #
 <!--
 **MrTytanic/MrTytanic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
