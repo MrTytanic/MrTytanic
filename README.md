@@ -20,7 +20,6 @@
 | NationPassports | Private |
 | Reputation | Private |
 | earthpol.com | Private |
-| Foliacore | Private |
 
 </details>
 
