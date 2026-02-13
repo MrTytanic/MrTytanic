@@ -3,7 +3,7 @@
 ---
 <details>
 <summary>About Me</summary>
-<h3>Owner of EarthPol, building the ultimate geopolitical sandbox where players lead nations, explore, and collaborate.</h3> 
+<h3>Owner of EarthPol, building the ultimate geopolitical sandbox where players collaborate, explore, and lead nations.</h3> 
 
 [![Owner of EarthPol](https://img.shields.io/badge/Owner%20of%20EarthPol-1F1F1F?style=flat-square&logo=unitednations&logoColor=FFFFFF)](https://earthpol.com/)
 [![Novice Developer](https://img.shields.io/badge/Novice%20Developer-1F1F1F?style=flat-square&logo=github&logoColor=FFFFFF)](https://github.com/MrTytanic)
